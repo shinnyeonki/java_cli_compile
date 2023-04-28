@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/shinnk/test/compile_java/my_lib/my_lib.jar"
+    ]
+}
